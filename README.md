@@ -11,7 +11,10 @@ Following tokenizing is parsing. From there, the interpreted data may be loaded 
 
 # Stepwise-Procedure:
 Read a ’C’ file as input.
+
 Read input files of functions, operators, keywords.
+
 Display a token for every lex unit.
+
 Create files for symbols and literals.
 
